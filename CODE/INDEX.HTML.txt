@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elijah Khot Bior - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Elijah Khot Bior</h1>
+        <h2>Aspiring Software Developer | Full-Stack Web Development & Data Analytics</h2>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#resume">Resume</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h2>Welcome to My Portfolio</h2>
+        <p>Hello! I'm <strong>Elijah Khot Bior</strong>, an aspiring software developer with a passion for **Full-Stack Web Development** and **Data Analytics**.</p>
+        <img src="profile.jpg" alt="My Profile Picture">
+        <p>Explore my journey, projects, and achievements below.</p>
+    </section>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a dedicated software developer passionate about solving problems with **technology**. My expertise includes **web development, cloud computing, and data analytics**.</p>
+        
+        <h3>Skills & Expertise</h3>
+        <ul>
+            <li>Frontend Development (HTML, CSS, JavaScript, React.js)</li>
+            <li>Backend Development (Node.js, Express.js)</li>
+            <li>Database Management (MySQL, MongoDB, Firebase)</li>
+            <li>Data Analytics (Python, Pandas, Power BI, Tableau)</li>
+            <li>Cybersecurity Awareness & Secure Coding Practices</li>
+        </ul>
+        
+        <h3>Interests</h3>
+        <ul>
+            <li>Competitive Coding (CodeChef, LeetCode, HackerRank)</li>
+            <li>AI & Machine Learning (TensorFlow, OpenCV)</li>
+            <li>Game Development (Unity, Unreal Engine)</li>
+            <li>Photography & Video Editing</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>1. College Management System</h3>
+            <p>A web-based system for managing student records, attendance, and grades.</p>
+        </div>
+        <div class="project">
+            <h3>2. Personal Budget Tracker</h3>
+            <p>A finance tracking web app that helps users manage expenses and savings.</p>
+        </div>
+        <div class="project">
+            <h3>3. E-commerce Website</h3>
+            <p>A full-fledged online store with payment integration and a user-friendly interface.</p>
+        </div>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <h3>Education</h3>
+        <p><strong>Bachelor of Computer Applications (BCA)</strong> - Chandigarh University</p>
+        
+        <h3>Achievements</h3>
+        <ul>
+            <li>Ranked **Top 40%** in CodeChef Coding Contests</li>
+            <li>Certified in **AWS Cloud Foundations**</li>
+            <li>Completed **Google Data Analytics Professional Certificate**</li>
+        </ul>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Here are some of my notable works:</p>
+        <ul>
+            <li><a href="https://github.com/ElijahCod26/CollegeManagementSystem" target="_blank">College Management System</a></li>
+            <li><a href="https://github.com/ElijahCod26/BudgetTracker" target="_blank">Budget Tracker App</a></li>
+            <li><a href="https://github.com/ElijahCod26/EcommerceWebsite" target="_blank">E-commerce Website</a></li>
+        </ul>
+    </section>
+
+    <section id="testimonials">
+        <h2>Testimonials</h2>
+        <blockquote>
+            <p>"Elijah is a highly skilled and dedicated developer. His ability to solve complex problems is impressive!"</p>
+            <footer>- Rajesh Kumar, Senior Developer</footer>
+        </blockquote>
+        <blockquote>
+            <p>"Elijah's work ethic and attention to detail are outstanding. His projects are always well-crafted and innovative."</p>
+            <footer>- Priya Sharma, Project Manager</footer>
+        </blockquote>
+        <blockquote>
+            <p>"Working with Elijah was an amazing experience. He is passionate about coding and always learning new things!"</p>
+            <footer>- Ihayat Illyas, Fellow Student</footer>
+        </blockquote>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <ul>
+            <li><strong>Email:</strong> khotbior11@gmail.com</li>
+            <li><strong>Phone:</strong> +919056206043</li>
+            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/elijah-chol-33879a329" target="_blank">linkedin.com/in/elijah-chol</a></li>
+            <li><strong>GitHub:</strong> <a href="https://github.com/ElijahCod26" target="_blank">github.com/ElijahCod26</a></li>
+            <li><strong>X (Twitter):</strong> <a href="https://x.com/khot_bior?t=BPjxSY_HfSOZiXlQwJB2xQ&s=09" target="_blank">@khot_bior</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Elijah Khot Bior. All rights reserved.</p>
+    </footer>
+</body>
+</html>

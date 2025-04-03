@@ -1,0 +1,78 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lavenderblush; /* Soft pinkish-white */
+    color: darkslategray;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: gold;
+}
+
+/* Sections */
+section {
+    padding: 50px;
+    margin: 20px auto;
+    width: 80%;
+    background-color: beige; /* Warm neutral tone */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Buttons */
+a, button {
+    background-color: crimson;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+a:hover, button:hover {
+    background-color: darkred;
+}
+
+/* Testimonials */
+blockquote {
+    border-left: 5px solid gold;
+    padding-left: 20px;
+    font-style: italic;
+    color: dimgray;
+}
+
+/* Footer */
+footer {
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
